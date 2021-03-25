@@ -10,5 +10,9 @@ int main()
     {
         printf("Not Cube Free");
     }
+    else
+    {
+        printf("%d" ,n);
+    }
     return 0;
 }
